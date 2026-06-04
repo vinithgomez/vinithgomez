@@ -4,7 +4,7 @@ Hi I am Vinith Gomez | Web Developer<br><br>
 I am Currently Working on Project Related to Web Development and AI Powered websites<br>I am Currently Learning Full Stack Development<br>I am Looking for Collaboration in FSD<br>I am Interested in Learning about AI/ML and Maybe Game Development(for fun) in the Future<br>Pronouns: He/Him
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vinith-gomez-8a1003203) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinithgomez36@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/vinith-gomez-8a1003203) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinithgomez36@gmail.com) 
 
 # 💻 Tech Stack:
 

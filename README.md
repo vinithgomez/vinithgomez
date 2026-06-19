@@ -38,27 +38,27 @@ fun_fact   : I build apps that think 🧠
 
 <div align="center">
 
-**💻 Programming Languages**
+### **💻 Programming Languages**
 
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,ts&theme=dark&perline=8" />
 
 
-**🎨 Frontend**
+### **🎨 Frontend**
 
 <img src="https://skillicons.dev/icons?i=react,tailwind,vite,nextjs&theme=dark&perline=4" />
 
 
-**⚙️ Backend**
+### **⚙️ Backend**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark&perline=2" />
 
 
-**🗄️ Database**
+### **🗄️ Database**
 
 <img src="https://skillicons.dev/icons?i=postgres,supabase&theme=dark&perline=2" />
 
 
-**🔧 Tools**
+### **🔧 Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark&perline=4" />
 

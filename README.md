@@ -113,7 +113,7 @@ fun_fact   : I build apps that think 🧠
 ## 🌱 Currently Learning & Goals
 
 ```
-🎯 2024–2025 Goals
+🎯 2026–2027 Goals
 ├── 🔨 Build 5+ placement-ready projects (Full-Stack + AI)
 ├── 🤖 Deep dive into AI/ML + LLM integration
 ├── ☁️  Learn DevOps basics (Docker, CI/CD)

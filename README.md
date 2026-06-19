@@ -85,12 +85,12 @@ fun_fact   : I build apps that think 🧠
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vinith&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinith&layout=compact&theme=radical&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vinithgomez&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinithgomez&layout=compact&theme=radical&hide_border=true" height="180"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinith&theme=radical&hide_border=true" height="180"/>
+<img src="https://streak-stats.demolab.com?user=vinithgomez&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180"/>
 
 </div>
 
@@ -101,19 +101,6 @@ fun_fact   : I build apps that think 🧠
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinith&theme=redical&hide_border=true&area=true"/>
 </div>
-
----
-
-## 🌱 Currently Learning & Goals
-
-```
-🎯 2026–2027 Goals
-├── 🔨 Build 5+ placement-ready projects (Full-Stack + AI)
-├── 🤖 Deep dive into AI/ML + LLM integration
-├── ☁️  Learn DevOps basics (Docker, CI/CD)
-├── 🧩 Crack campus placements at a top product company
-└── 🌐 Launch at least one project that real users enjoy
-```
 
 ---
 

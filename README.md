@@ -40,25 +40,31 @@ fun_fact   : I build apps that think 🧠
 
 **💻 Programming Languages**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,ts&theme=dark&perline=8" />
 
 <br/><br/>
 
-**🎨 Frontend & Mobile**
+**🎨 Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite,flutter&theme=dark&perline=6" />
-
-<br/><br/>
-
-**⚙️ Backend & Database**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,supabase,postgres,mongodb&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite,nextjs&theme=dark&perline=4" />
 
 <br/><br/>
 
-**🔧 Tools & Platforms**
+**⚙️ Backend**
 
-<img src="https://skillicons.dev/icons?i=git,github,figma,postman,linux,vscode&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark&perline=2" />
+
+<br/><br/>
+
+**🗄️ Database**
+
+<img src="https://skillicons.dev/icons?i=postgres,supabase&theme=dark&perline=2" />
+
+<br/><br/>
+
+**🔧 Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark&perline=4" />
 
 </div>
 

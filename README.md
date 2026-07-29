@@ -6,8 +6,8 @@
 <br/>
 
 <!-- Profile Views + Followers badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=Vinith&style=for-the-badge&color=FF6B6B&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/Vinith?style=for-the-badge&color=845EC2&label=FOLLOWERS)
+![Profile Views](https://komarev.com/ghpvc/?username=vinithgomez&style=for-the-badge&color=FF6B6B&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/vinithgomez?style=for-the-badge&color=845EC2&label=FOLLOWERS)
 
 </div>
 
@@ -90,7 +90,7 @@ fun_fact   : I build apps that think 🧠
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinith&theme=radical&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinithgomez&theme=radical&hide_border=true&area=true"/>
 </div>
 
 ---

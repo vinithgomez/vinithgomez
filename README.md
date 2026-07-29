@@ -40,44 +40,29 @@ fun_fact   : I build apps that think 🧠
 
 ### **💻 Programming Languages**
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,ts&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,ts&theme=dark&perline=8" alt="Java, Python, C, C++, HTML, CSS, JavaScript, TypeScript" />
 
 
 ### **🎨 Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite,nextjs&theme=dark&perline=4" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite,nextjs&theme=dark&perline=4" alt="React, Tailwind CSS, Vite, Next.js" />
 
 
 ### **⚙️ Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark&perline=2" />
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark&perline=2" alt="Node.js, Express" />
 
 
 ### **🗄️ Database**
 
-<img src="https://skillicons.dev/icons?i=postgres,supabase&theme=dark&perline=2" />
+<img src="https://skillicons.dev/icons?i=postgres,supabase&theme=dark&perline=2" alt="PostgreSQL, Supabase" />
 
 
 ### **🔧 Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark&perline=4" />
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark&perline=4" alt="Git, GitHub, Figma, VS Code" />
 
 </div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🌟 Project | 📝 Description | 🛠️ Built With |
-|:----------:|:---------------:|:--------------:|
-| **🪞 Mind Mirror** | AI-powered app that generates a psychological & aesthetic profile from your stream-of-consciousness text. Dark cinematic UI with generative art. | React · Claude API · Supabase |
-| *(More coming soon...)* | *Currently building out my placement project portfolio* | - |
-
-</div>
-
-> 💡 *I'm actively building more projects across Full-Stack, AI/ML, and DevOps. Watch this space!*
 
 ---
 
@@ -85,8 +70,8 @@ fun_fact   : I build apps that think 🧠
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vinithgomez&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinithgomez&layout=compact&theme=radical&hide_border=true" height="180"/>
+<img src="https://github-stats-extended.vercel.app/api?username=vinithgomez&show_icons=true&theme=radical&hide_border=true" height="180"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=vinithgomez&layout=compact&theme=radical&hide_border=true" height="180"/>
 
 <br/>
 
@@ -99,7 +84,7 @@ fun_fact   : I build apps that think 🧠
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinith&theme=redical&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinith&theme=radical&hide_border=true&area=true"/>
 </div>
 
 ---
@@ -108,11 +93,10 @@ fun_fact   : I build apps that think 🧠
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Vinith)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinith)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinith@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Vinith)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://vinith.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinith-gomez-8a1003203/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinithgomez)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinithgomez36@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://vinith-gomez-portfolio.vercel.app/)
 
 </div>
 

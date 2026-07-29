@@ -33,7 +33,7 @@ fun_fact   : I build apps that think 🧠
 ```
 
 - 🔭 Currently building **Mind Mirror** — an AI-powered psychological profile generator
-- 🌱 Exploring **Full-Stack**, **AI/ML**, and **DevOps** to prep for placements
+- 🌱 Exploring **Full-Stack**, **AI/ML**, and **DevOps** and prep for placements
 - 🎯 Goal: Ship impactful projects that look great on a resume *and* actually work
 - 💬 Ask me about **React**, **Python**, **AI apps**, or **creative project ideas**
 - ⚡ I believe code should be both functional *and* beautiful
